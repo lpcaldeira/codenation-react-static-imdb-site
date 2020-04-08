@@ -31,5 +31,5 @@ Exemplo: [https://codenation-challenges.s3-us-west-1.amazonaws.com/react-11/imag
 
 ## Helpers:<br>
 Caso precise, selecionamos alguns conteúdos que podem te ajudar a completar este desafio. Eles estão ordenados por nível iniciante, introdutório e avançado. Bons estudos!<br>
-[Live Server](https://www.npmjs.com/package/live-server)
+[Live Server](https://www.npmjs.com/package/live-server)<br>
 [Download node](https://nodejs.org/en/download/)
